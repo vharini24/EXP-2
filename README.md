@@ -60,6 +60,11 @@ Load Characteristics:
 
 Output:
 
+<img width="977" height="727" alt="image" src="https://github.com/user-attachments/assets/37b36640-7f2c-4c97-9f86-4ec39e11567b" />
+
+
+
+
 
 
  
